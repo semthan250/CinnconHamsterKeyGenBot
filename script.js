@@ -179,7 +179,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        keyCountLabel.innerText = `Number of keys: ${keyCount}`;
+        keyCountLabel.innerText = `Anahtar Sayısı: ${keyCount}`;
 
         progressBar.style.width = '0%';
         progressText.innerText = '0%';
@@ -310,15 +310,15 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     document.getElementById('creatorChannelBtn').addEventListener('click', () => {
-        window.open('https://telegram.me/Cancincon', '_blank');
+        window.open('https://telegram.me/ozgur251', '_blank');
     });
 
     telegramAdminBtn.addEventListener('click', () => {
-        window.open('https://telegram.me/HamsterKeyDuyuru', '_blank');
+        window.open('https://telegram.me/miskokey_bot', '_blank');
     });
 	
 	telegramChannelBtn.addEventListener('click', () => {
-        window.open('https://telegram.me/HamsterKeyDuyuru', '_blank');
+        window.open('https://telegram.me/miskokey_bot', '_blank');
     });
 
     document.getElementById('ShowKeysBtn').addEventListener('click', () => {
