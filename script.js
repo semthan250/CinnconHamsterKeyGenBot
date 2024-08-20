@@ -183,7 +183,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         progressBar.style.width = '0%';
         progressText.innerText = '0%';
-        progressLog.innerText = 'Starting... \n Please wait It may take upto 1 min to Login';
+        progressLog.innerText = 'Key Üretiliyor ... \n Bu işlem birkaç dakika sürebilir lütfen sabırlı olun';
         progressContainer.classList.remove('hidden');
         keyContainer.classList.add('hidden');
         generatedKeysTitle.classList.add('hidden');
