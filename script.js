@@ -64,11 +64,19 @@ document.addEventListener('DOMContentLoaded', () => {
             
 	},
         9: {
-            name: 'Mud Racing ',
+            name: 'Mud Racing',
             appToken: '8814a785-97fb-4177-9193-ca4180ff9da8',
             promoId: '8814a785-97fb-4177-9193-ca4180ff9da8',
             eventsDelay: 20000,
             attemptsNumber: 15,
+            
+	},
+        10: {
+            name: 'CafeDash',
+            appToken: 'bc0971b8-04df-4e72-8a3e-ec4dc663cd11',
+            promoId: 'bc0971b8-04df-4e72-8a3e-ec4dc663cd11',
+            eventsDelay: 23,
+            attemptsNumber: 16,
             
 	}
     };
