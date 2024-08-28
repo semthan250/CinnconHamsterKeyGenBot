@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'CafeDash',
             appToken: 'bc0971b8-04df-4e72-8a3e-ec4dc663cd11',
             promoId: 'bc0971b8-04df-4e72-8a3e-ec4dc663cd11',
-            eventsDelay: 23,
+            eventsDelay: 23000,
             attemptsNumber: 16,
             
 	}
